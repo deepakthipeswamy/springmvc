@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+E:\spring-sts\.metadata\.plugins\org.eclipse.jdt.core
+3435648363.index

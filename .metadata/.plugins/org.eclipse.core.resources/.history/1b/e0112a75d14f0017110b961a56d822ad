@@ -1,0 +1,5 @@
+package bookmarks;
+
+public interface BookmarkRepository extends JpaRepository<Bookmark, Long> {
+	Collection<Bookmark> findByAccountUsername(String username);
+}
